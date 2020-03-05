@@ -1,0 +1,67 @@
+
+/*contact-form input,textarea{
+  width: 100%;
+}*/
+
+textarea {
+  height: 7rem;
+  border: solid 0.1px #d3d3d3;
+}
+
+input {
+/* width: 480px; */
+}
+
+.form {
+  width: 480px;
+}
+
+.contact{
+  /*width: 630px;*/
+  text-align: right;
+}
+
+.contact tr{
+  height: 5rem;
+  width: 630px;
+}
+
+.contact th{
+  width: 150px;
+  color: black;
+  /*text-align: right;*/
+}
+.contact td{
+  width: 480px;
+  padding-left: 1rem;
+  /*border: solid 1px #B1B1B1;*/
+  text-align: left;
+}
+
+
+
+
+
+/*.contact{
+  border-collapse: collapse;
+}*/
+
+.submit {
+  text-align: center;
+}
+
+.submit:hover{
+  opacity: 0.6;
+}
+
+.contact-submit{
+  text-align: center;
+  width: 75px;
+  padding: 1rem;
+  background-color: #1e90ff;
+  color: white;
+}
+
+/*.contact{
+  border-collapse: collapse;
+}*/
